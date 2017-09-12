@@ -1,5 +1,5 @@
 body {
-  background-color:black;
+  background-image: url("NBA.jpg");
 }
 h1 {
   color: white;
@@ -19,7 +19,6 @@ img {
 }
 a {
   color: blue;
-  margin: 0 auto;
 }
 ol {
   color: white;
